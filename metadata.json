@@ -1,0 +1,6 @@
+{
+  "name": "Health Flow",
+  "description": "Daily wellness metrics tracker, symptom triage coach, habit & hydration manager, and mindfulness hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
